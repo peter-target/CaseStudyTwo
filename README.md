@@ -7,9 +7,9 @@ In the /src/CaseStudytwo/ directory there is a Main.java file, which when run wi
 
 "anInteger anInteger anInteger anInteger"
 
-And then press 'Enter'. This will create a set of coordinates where the first Integer is the X coordinate of the bottom left corner of a rectangle, the second Integer is the Y coordinate of the bottom left corner, the third coordinate is the X coordinate of the top right corner, and the fourth coordinate is the Y coordinate of the top right corner. If a line does not fit the format above, it will be ignored.
+And then press 'Enter' once after each line. This will create a set of coordinates where the first Integer is the X coordinate of the bottom left corner of a rectangle, the second Integer is the Y coordinate of the bottom left corner, the third coordinate is the X coordinate of the top right corner, and the fourth coordinate is the Y coordinate of the top right corner. If a line does not fit the format above, it will be ignored.
 
-Multiple sets of coordinates can be entered. Once finished adding coordinates, press 'Enter' again or type 'exit' and the analysis will run with the coordinate(s) provided. 
+Multiple sets of coordinates can be entered. Once finished adding coordinates, press 'Enter' again or type 'exit' and the analysis will run with the coordinate(s) provided and output the results to StdOut.
 
 2. Notes on Test Cases
 
