@@ -2,6 +2,7 @@
 Target Case Study #2 (Barren Land Analysis)
 
 1. Instructions to Run
+
 In the /src/CaseStudytwo/ directory there is a Main.java file, which when run will read lines from StdIn. Type lines in the format:
 
 "anInteger anInteger anInteger anInteger"
@@ -11,6 +12,7 @@ And then press 'Enter'. This will create a set of coordinates where the first In
 Multiple sets of coordinates can be entered. Once finished adding coordinates, press 'Enter' again or type 'exit' and the analysis will run with the coordinate(s) provided. 
 
 2. Notes on Test Cases
+
 In the /test/CaseStudytwo/ I made a number of JUnit test cases. These test cases require two JARs (junit version 4.13 and hamcrest-core version 1.3) which can be found at:
 
 junit:
@@ -19,4 +21,5 @@ hamcrest:
 https://search.maven.org/artifact/org.hamcrest/hamcrest-core/1.3/jar
 
 3. Other
+
 Written in Netbeans 8.0.2 using Java 8.
